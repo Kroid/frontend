@@ -1,0 +1,10 @@
+# node.js
+node_modules
+
+
+# logs
+*.log
+
+
+# temp files
+*.tmp

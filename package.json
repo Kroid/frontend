@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "description": "frontend ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kroid/frontend.git"
+  },
+  "author": "George M Kroid <kroid@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kroid/frontend/issues"
+  },
+  "homepage": "https://github.com/Kroid/frontend",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "require-dir": "^0.1.0"
+  }
+}
